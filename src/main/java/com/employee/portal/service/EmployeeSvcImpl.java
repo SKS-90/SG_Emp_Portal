@@ -1,0 +1,4 @@
+package com.employee.portal.service;
+
+public class EmployeeSvcImpl {
+}
