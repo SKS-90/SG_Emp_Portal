@@ -1,0 +1,36 @@
+
+Application name- portal
+Server port- 8002
+
+## For run application
+gradlew build bootrun
+
+Employee Registration portal
+Register an employee with following details:
+	First Name
+	Last Name
+	Gender
+	Date of Birth
+	Department
+
+Post- http://localhost:8002/employee/register
+Payload-
+{
+	"firstName":" ",
+	"lastName":" ",
+	"gender":" ",
+	"dateOfBirth":" ",
+	"department":" "
+
+}
+
+Get All Register Employee List
+Get all the employee details in a tabular form (or any other way) in ascending order by first name.
+
+All Employee
+Get- http://localhost:8002/employee/getall
+
+## h2 DB url
+http://localhost:8080/h2-console
+
+

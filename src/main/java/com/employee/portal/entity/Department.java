@@ -1,4 +1,0 @@
-package com.employee.portal.entity;
-
-public class Department {
-}
