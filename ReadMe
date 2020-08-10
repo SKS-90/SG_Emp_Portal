@@ -31,6 +31,6 @@ All Employee
 Get- http://localhost:8002/employee/getall
 
 ## h2 DB url
-http://localhost:8080/h2-console
+http://localhost:8002/h2-console
 
 
